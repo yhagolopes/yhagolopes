@@ -9,7 +9,7 @@
     <p><b>Front-End Developer</b>, Let's work together:</p>
 </div>
 <div align="center">
-    <a href="https://www.linkedin.com/in/yhago-lopes-bb730b27b/">
+    <a href="https://www.linkedin.com/in/yhagolopes">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <br></br>
